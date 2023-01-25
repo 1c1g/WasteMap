@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929528071737",
+    "project_id": "ecokg-9644a",
+    "storage_bucket": "ecokg-9644a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929528071737:android:ec4f6142efdb3ec5936fe8",
+        "android_client_info": {
+          "package_name": "com.example.education"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929528071737-pthhfdpv57cnb3tf12fsfo2tar2j1t62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJh5_QN49ulWzWUtA1Poh2Bzcd0ZxXbBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929528071737-pthhfdpv57cnb3tf12fsfo2tar2j1t62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
